@@ -18,7 +18,7 @@ cool-project
 
 - lowercase with dashes
 - prefixed with DockerHub namespace (eg.: `ondrejsika`)
-- suffixec by `docker`
+- suffixed by `docker`
 
 ```
 ondrejsika-adminer-docker
